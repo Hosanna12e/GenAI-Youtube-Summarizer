@@ -1,0 +1,8 @@
+flask
+python-dotenv
+google-generativeai
+flask-cors
+youtube-transcript-api
+BeautifulSoup4
+pymongo
+requests
